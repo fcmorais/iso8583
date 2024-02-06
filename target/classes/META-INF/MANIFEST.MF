@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: felip
+Build-Jdk: 17.0.10
+Class-Path: lib/j8583-2.0.0.jar lib/slf4j-api-1.7.30.jar lib/slf4j-simpl
+ e-1.7.30.jar
+Main-Class: com.fcmorais.app.iso8583.App
+Created-By: Maven Integration for Eclipse
+
